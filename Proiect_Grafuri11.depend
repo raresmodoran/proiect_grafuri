@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1708201751 source:c:\users\admin\desktop\proiect_grafuri11\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	<queue>
+	<bits/stdc++.h>
+
+1707982059 source:c:\users\admin\desktop\proiect_grafuri11\test.cpp
+
